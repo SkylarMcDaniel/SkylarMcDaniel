@@ -9,7 +9,7 @@ I am interested in building bioinformatic pipelines that can handle large datase
 * 🌍  I'm based in Logan Utah
 * ✉️  You can contact me at [sky.mcdaniel@gmail.com](mailto:sky.mcdaniel@gmail.com)
 * 🧠  I'm currently learning SQL
-* 🤨  I would like help in learning how to build web applications
+* 🤨  I would like help with learning how to build web applications
 
 ### Skills
 
